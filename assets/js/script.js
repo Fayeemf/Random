@@ -2,28 +2,28 @@ var subtitles = ["Majidul Mooktadeer", "Hamzah Bemat ", "Zaid Shaikh", "Stomach 
 
 var projects = [
     {
-        title: "C. L. Halpern's Website",
-        desc: "Developed for Christina Lewis Halpern, founder and Executive Director of All Star Code, built to showcase her work and philanthropic efforts.",
-        img: "christina-website.png",
-        link: "http://christinalewis.com"
+        title: "Google Presentation.",
+        desc: "Stomach Cancer, why you should know about it?",
+        // img: "christina-website.png",
+        // link: "http://christinalewis.comcom"
     },
     {
-        title: "College Organizer",
-        desc: "A personal project, designed to automate a large portion of the tedious college researching process, using College Scorecard API and Firebase.",
-        img: "college-organizer.png",
-        link: "colleges"
+        title: "Majidul Mooktadeer",
+        desc: "Designed website dedicated to stomach cancer, gathered research and helped in making the slides.",
+        // img: "christina-website.png",
+        // link: "colleges"
     },
     {
-        title: "Centre News",
-        desc: "Submission for the 2017 Congressional App Challenge, combatting Media Bias by pulling articles from many news sources on the same page.",
-        img: "centre-news.png",
-        link: "news"
+        title: "Hamzah Bemat",
+        desc: "Credited in making the slides and gathered research on stomach cancer.",
+        // img: "centre-news.png",
+        // link: "news"
     },
     {
-        title: "All Star Wars",
-        desc: "Developed for All Star Code, a (virtual reality supported) game that connects your phone to your display, allowing you to wield a lightsaber.",
-        img: "all-star-wars.png",
-        link: "http://navidmx.herokuapp.com"
+        title: "Zaid Shaikh",
+        desc: "Helped gather research and analyzed stomach cancer.",
+        // img: "all-star-wars.png",
+        // link: "http://navidmx.herokuapp.com"
     }
 ]
 
