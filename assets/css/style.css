@@ -97,7 +97,7 @@ span {
 
 h2,
 h3 {
-    color: #60d4ff;
+    color: black;
 }
 
 a {
@@ -117,7 +117,7 @@ a {
 
 .navlink a:hover,
 .navlink a:focus {
-    color: #60d4ff !important;
+    color:black !important;
     cursor: pointer;
     outline: 0;
 }

@@ -30,27 +30,19 @@ var projects = [
 var skills = [
     {
         name: "html",
-        desc: "The stucture and backbone of every website, I have thorough experience with HTML 5, and it's integration with CSS, Search Engine Optimization through meta data, etc."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
         name: "css",
-        desc: "The style and design behind most of the internet, CSS 3 is my medium for creativity in websites, along with mobile readiness through media queries and libraries such as Bootstrap."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-        name: "js",
-        desc: "My programming language of choice, I have experience with JavaScript, and am learning more efficient techniques through ES 6. Libraries I use include jQuery, ajax, and node.js."
-    },
-    {
-        name: "php",
-        desc: "The server-side language behind most of my programs, I use PHP to provide backend for connecting to databases, scanning local files, etc."
-    },
-    {
-        name: "mysql",
-        desc: "The relational database management system behind many of my projects, I have thorough experience querying and sorting through SQL."
+        name: "cssd",
+        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
         name: "photoshop",
-        desc: "One of the most robust and widely used photo editors of all time, I have decent experience with Photoshop, from typography to optimizing media for web development."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
 ]
 
