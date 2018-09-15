@@ -34,13 +34,13 @@ body {
 #title {
     margin: auto;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 0;
     right: 0;
     bottom: 0;
     padding-left: 40px;
     padding-right: 40px;
-    transform: translateY(-70%);
+    transform: translateY(70%);
     text-align: center;
     display: none;
     z-index: 2;
