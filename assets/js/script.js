@@ -4,45 +4,45 @@ var projects = [
     {
         title: "Google Presentation.",
         desc: "Stomach Cancer, why you should know about it?",
-        // img: "christina-website.png",
-        // link: "http://christinalewis.comcom"
+        img: "christina-website.png",
+        link: "https://docs.google.com/presentation/d/1elmdIhrqgfyYwZ5lI7vSOssWs8ebuYRKqTNkFFGVCy4/edit?usp=sharing"
     },
     {
         title: "Majidul Mooktadeer",
         desc: "Designed website dedicated to stomach cancer, gathered research and helped in making the slides.",
-        // img: "christina-website.png",
-        // link: "colleges"
+        img: "college-organizer.png",
+        link: "https://www.facebook.com/profile.php?id=100008014488117&ref=bookmarks"
     },
     {
         title: "Hamzah Bemat",
         desc: "Credited in making the slides and gathered research on stomach cancer.",
-        // img: "centre-news.png",
-        // link: "news"
+        img: "centre-news.jpg",
+        link: "https://www.facebook.com/Wrd2hanS?ref=br_rs"
     },
     {
         title: "Zaid Shaikh",
         desc: "Helped gather research and analyzed stomach cancer.",
-        // img: "all-star-wars.png",
-        // link: "http://navidmx.herokuapp.com"
+        img: "all-star-wars.jpg",
+        link: "https://www.facebook.com/zaid.shaikh.77715869?fb_dtsg_ag=AdwLbVDKOlsShO8YkpVkBZdYgfMajTIpHLkikOWZRogzDA%3AAdyI31mwsUwbgL735AL7RZvo8qZdTwx5FwlZlz47sneI6w"
     }
 ]
 
 var skills = [
     {
         name: "html",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        desc: "Infection with a common bacteria knowns as H. Pylori."
     },
     {
         name: "css",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        desc: "Inflammation in gut called gastritis."
     },
     {
         name: "cssd",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        desc: "Type-A Blood"
     },
     {
         name: "photoshop",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        desc: "Epstein-Barr virus Infection"
     }
 ]
 
